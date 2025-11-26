@@ -21,7 +21,7 @@ const Footer = () => {
                                 <FaLinkedin className="w-4 h-4 text-white" />
                             </a>
                             <a
-                                href="https://github.com/ma3llim007/"
+                                href="https://github.com/ma3llim/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 aria-label="GitHub"

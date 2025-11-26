@@ -13,37 +13,37 @@ const minorProject = [
         title: "Blog Platform",
         Icon: FaBlogger,
         desc: "A feature-rich blogging system with rich-text editing capabilities, built using React, Redux Toolkit, Redux Persist, and TinyMCE.",
-        link: "https://github.com/ma3llim007/react_project/tree/master/06_blog_platform",
+        link: "https://github.com/ma3llim/react_project/tree/master/06_blog_platform",
     },
     {
         title: "E-Commerce Product Page",
         Icon: FaProductHunt,
         desc: "A responsive and modern product showcase page designed with React, Tailwind CSS, and ShadCN UI components.",
-        link: "https://github.com/ma3llim007/react_project/tree/master/07_ecommerce_product_page",
+        link: "https://github.com/ma3llim/react_project/tree/master/07_ecommerce_product_page",
     },
     {
         title: "Expense Tracker",
         Icon: FaMoneyBillWave,
         desc: "A personal finance tracker built with React and Redux, leveraging Redux Persist for seamless state management and local storage support.",
-        link: "https://github.com/ma3llim007/react_project/tree/master/05_expense_tracker",
+        link: "https://github.com/ma3llim/react_project/tree/master/05_expense_tracker",
     },
     {
         title: "Task Management",
         Icon: FaTasks,
         desc: "A drag-and-drop task manager application developed with React, Redux Persist, and React DnD for intuitive task organization.",
-        link: "https://github.com/ma3llim007/react_project/tree/master/09_task_management_app",
+        link: "https://github.com/ma3llim/react_project/tree/master/09_task_management_app",
     },
     {
         title: "Pomodoro Timer",
         Icon: FaClock,
         desc: "A productivity-focused timer app using React, Styled Components, Framer Motion for animations, and Formik for form handling.",
-        link: "https://github.com/ma3llim007/react_project/tree/master/09_task_management_app",
+        link: "https://github.com/ma3llim/react_project/tree/master/09_task_management_app",
     },
     {
         title: "AI Resume Builder",
         Icon: FaRobot,
         desc: " An intelligent backend API built with Node.js and Express.js that generates resumes using Gemini AI and environment configuration via dotenv.",
-        link: "https://github.com/ma3llim007/react_project/tree/master/09_task_management_app",
+        link: "https://github.com/ma3llim/react_project/tree/master/09_task_management_app",
     },
 ];
 const Project = () => {
@@ -76,7 +76,7 @@ const Project = () => {
                                                 <FaLink /> Live
                                             </a>
                                             <a
-                                                href="https://github.com/ma3llim007/sameercart"
+                                                href="https://github.com/ma3llim/sameercart"
                                                 className="inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-green-700 hover:bg-green-800 rounded-md transition"
                                                 aria-label="Source Code On Github"
                                                 target="_blank"
@@ -112,7 +112,7 @@ const Project = () => {
                                                 <FaLink /> Live
                                             </a>
                                             <a
-                                                href="https://github.com/ma3llim007/blogsphere"
+                                                href="https://github.com/ma3llim/blogsphere"
                                                 className="inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-green-700 hover:bg-green-800 rounded-md transition"
                                                 aria-label="Source Code On Github"
                                                 target="_blank"
@@ -147,7 +147,7 @@ const Project = () => {
                                                 <FaLink /> Live
                                             </a>
                                             <a
-                                                href="https://github.com/ma3llim007/mscut"
+                                                href="https://github.com/ma3llim/mscut"
                                                 className="inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-green-700 hover:bg-green-800 rounded-md transition"
                                                 aria-label="Source Code On Github"
                                                 target="_blank"
@@ -182,7 +182,7 @@ const Project = () => {
                                                 <FaLink /> Live
                                             </a>
                                             <a
-                                                href="https://github.com/ma3llim007/ai-code-review"
+                                                href="https://github.com/ma3llim/ai-code-review"
                                                 className="inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-green-700 hover:bg-green-800 rounded-md transition"
                                                 aria-label="Source Code On Github"
                                                 target="_blank"
@@ -287,7 +287,7 @@ const Project = () => {
                                 <FaLink /> Live
                             </a>
                             <a
-                                href="https://github.com/ma3llim007/sameercart"
+                                href="https://github.com/ma3llim/sameercart"
                                 className="inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-green-600 hover:bg-green-700 rounded-md transition"
                                 aria-label="Source Code On Github"
                                 target="_blank"
@@ -382,7 +382,7 @@ const Project = () => {
                                 <FaLink /> Live
                             </a>
                             <a
-                                href="https://github.com/ma3llim007/blogsphere"
+                                href="https://github.com/ma3llim/blogsphere"
                                 className="inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-green-600 hover:bg-green-700 rounded-md transition"
                                 aria-label="Source Code On Github"
                                 target="_blank"
@@ -446,7 +446,7 @@ const Project = () => {
                                 <FaLink /> Live
                             </a>
                             <a
-                                href="https://github.com/ma3llim007/mscut"
+                                href="https://github.com/ma3llim/mscut"
                                 className="inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-green-600 hover:bg-green-700 rounded-md transition"
                                 aria-label="Source Code On Github"
                                 target="_blank"
@@ -510,7 +510,7 @@ const Project = () => {
                                 <FaLink /> Live
                             </a>
                             <a
-                                href="https://github.com/ma3llim007/ai-code-review"
+                                href="https://github.com/ma3llim/ai-code-review"
                                 className="inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-green-600 hover:bg-green-700 rounded-md transition"
                                 aria-label="Source Code On Github"
                                 target="_blank"

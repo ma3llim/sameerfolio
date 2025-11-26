@@ -50,7 +50,7 @@ const Hero = () => {
                                 </a>
 
                                 <a
-                                    href="https://github.com/ma3llim007/"
+                                    href="https://github.com/ma3llim/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     aria-label="GitHub"
